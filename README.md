@@ -26,14 +26,6 @@ The main objectives of this project were to:
 - Identify peak periods of emergency-room activity.
 - Build an interactive reporting solution for decision-making.
 
-# Tools & Technologies
-- **Power BI** — Interactive dashboard development, KPI cards, filters, and data visualization
-- **Power Query** — Data cleaning, transformation, validation, and preparation
-- **DAX** — KPI and calculated measure development for patient volume, wait time, satisfaction, referrals, and admissions
-- **Data Modeling** — Structured relationships for patient, demographic, referral, and time-based analysis
-- **Data Visualization** — Interactive charts, tables, and KPI visuals for clear performance reporting
-- **Data Analytics** — Exploratory analysis, trend identification, KPI development, and insight generation
-
 # Project Workflow
 **Requirements → Data Cleaning → Data Transformation → Data Modeling → DAX → Dashboard Development → Insights**
 - Cleaned and transformed raw healthcare data using **Power Query**
@@ -41,6 +33,14 @@ The main objectives of this project were to:
 - Created **DAX measures** for key operational KPIs
 - Designed an **interactive dashboard** with filters and multiple report views
 - Analyzed patient trends across **time, demographics, admissions, and referrals**
+
+# Tools & Technologies
+- **Power BI** — Interactive dashboard development, KPI cards, filters, and data visualization
+- **Power Query** — Data cleaning, transformation, validation, and preparation
+- **DAX** — KPI and calculated measure development for patient volume, wait time, satisfaction, referrals, and admissions
+- **Data Modeling** — Structured relationships for patient, demographic, referral, and time-based analysis
+- **Data Visualization** — Interactive charts, tables, and KPI visuals for clear performance reporting
+- **Data Analytics** — Exploratory analysis, trend identification, KPI development, and insight generation
   
 # 💡 Key Takeaways
 | Area | Key Finding |
