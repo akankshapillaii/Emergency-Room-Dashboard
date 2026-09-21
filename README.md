@@ -35,5 +35,16 @@ The main objectives of this project were to:
 | **DAX** | KPI calculations and analytical measures |
 | **Excel / CSV** | Source data and data preparation |
 
+# 💡 Key Takeaways
+| Area | Key Finding |
+|---|---|
+| **Patient Volume** | **9,216 patients** analyzed across 19 months |
+| **Wait Time** | Average wait time of **35.3 minutes** |
+| **Satisfaction** | Average satisfaction score of **4.99/10** |
+| **Referrals** | **General Practice (1,840)** and **Orthopedics (995)** had the highest referrals |
+| **Peak Periods** | Highest patient volumes occurred on **Monday, Saturday & Tuesday** |
+| **Age Group** | **30–39 years (1,200)** was the largest patient age group |
+| **Admissions** | **4,612 admitted** vs. **4,604 treated & released** |
+
 
 
