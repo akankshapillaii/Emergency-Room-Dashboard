@@ -46,7 +46,7 @@ The main objectives of this project were to:
 Monthly View | Consolidated View | Patient Details | Key Takeaways
 <table>
   <tr>
-    <td><img src="https://github.com/akankshapillaii/Emergency-Room-Dashboard/blob/main/Dashboard%20Preview/ER%20Final%20Dashboard.png" width="400"></td>
+    <td><img src="Dashboard Preview/ER Final Dashboard.png" width="400"></td>
     <td><img src="Dashboard Preview/Consolidated view.png" width="400"></td>
   </tr>
   <tr>
