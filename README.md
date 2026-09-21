@@ -41,6 +41,19 @@ The main objectives of this project were to:
 - **Data Modeling** — Structured relationships for patient, demographic, referral, and time-based analysis
 - **Data Visualization** — Interactive charts, tables, and KPI visuals for clear performance reporting
 - **Data Analytics** — Exploratory analysis, trend identification, KPI development, and insight generation
+
+# Dashboard Pages
+Monthly View | Consolidated View | Patient Details | Key Takeaways
+<table>
+  <tr>
+    <td><img src="Dashboard Preview/ER Final Dashboard.png" width="400"></td>
+    <td><img src="Dashboard Preview/Consolidated view.png" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="Dashboard Preview/Patient Details.png" width="400"></td>
+    <td><img src="Dashboard Preview/Key takeaways.png" width="400"></td>
+  </tr>
+</table>
   
 # 💡 Key Takeaways
 | Area | Key Finding |
