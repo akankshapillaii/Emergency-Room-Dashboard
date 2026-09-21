@@ -65,3 +65,23 @@ Monthly View | Consolidated View | Patient Details | Key Takeaways
 | **Peak Periods** | Highest patient volumes occurred on **Monday, Saturday & Tuesday** |
 | **Age Group** | **30–39 years (1,200)** was the largest patient age group |
 | **Admissions** | **4,612 admitted** vs. **4,604 treated & released** |
+
+# What the Analysis Reveals
+- Patient demand is concentrated around specific days and hours, highlighting periods of higher ER activity.
+- General Practice and Orthopedics account for the highest referral volumes.
+- Admissions and treated-and-released cases are almost evenly split, while the average wait time indicates an opportunity to examine patient-flow patterns.
+
+# Repository Structure
+
+```text
+Emergency-Room-Dashboard/
+│
+├── README.md
+├── Hospital Emergency Room Dashboard.pbix
+│
+└── Dashboard Preview/
+    ├── monthly-view.png
+    ├── consolidated-view.png
+    ├── patient-details.png
+    ├── key-takeaways.png
+    └── data-model.png
