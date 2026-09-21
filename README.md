@@ -8,23 +8,23 @@ Hospital emergency departments experience fluctuating patient volumes, making it
 
 # Business Objective
 Develop an interactive reporting solution to help hospital administrators:
-1. Monitor patient volume and emergency-room activity
-2. Track average waiting time and service timeliness
-3. Analyze admission and referral patterns
-4. Identify peak patient periods
-5. Understand patient demographics
-6. Monitor patient satisfaction
+- Monitor patient volume and emergency-room activity
+- Track average waiting time and service timeliness
+- Analyze admission and referral patterns
+- Identify peak patient periods
+- Understand patient demographics
+- Monitor patient satisfaction
 
 # Project Objectives
 The main objectives of this project were to:
-1. Analyze emergency-room patient volume and flow.
-2. Monitor key operational KPIs.
-3. Analyze patient waiting times.
-4. Understand admission patterns.
-5. Identify demographic trends.
-6. Analyze department referral patterns.
-7. Identify peak periods of emergency-room activity.
-8. Build an interactive reporting solution for decision-making.
+- Analyze emergency-room patient volume and flow.
+- Monitor key operational KPIs.
+- Analyze patient waiting times.
+- Understand admission patterns.
+- Identify demographic trends.
+- Analyze department referral patterns.
+- Identify peak periods of emergency-room activity.
+- Build an interactive reporting solution for decision-making.
 
 # Tools & Technologies
 - **Power BI** — Interactive dashboard development, KPI cards, filters, and data visualization
@@ -41,7 +41,7 @@ The main objectives of this project were to:
 - Created **DAX measures** for key operational KPIs
 - Designed an **interactive dashboard** with filters and multiple report views
 - Analyzed patient trends across **time, demographics, admissions, and referrals**
-- 
+  
 # 💡 Key Takeaways
 | Area | Key Finding |
 |---|---|
@@ -52,6 +52,3 @@ The main objectives of this project were to:
 | **Peak Periods** | Highest patient volumes occurred on **Monday, Saturday & Tuesday** |
 | **Age Group** | **30–39 years (1,200)** was the largest patient age group |
 | **Admissions** | **4,612 admitted** vs. **4,604 treated & released** |
-
-
-
