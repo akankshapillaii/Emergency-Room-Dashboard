@@ -1,8 +1,7 @@
 # Emergency-Room-Dashboard
 An interactive Power BI dashboard developed to analyze hospital emergency-room performance, patient flow, waiting times, admissions, referrals, demographics, and patient satisfaction.
 
-# Dashboard Preview
-[ ... ](https://github.com/akankshapillaii/Emergency-Room-Dashboard/blob/main/ER%20Final%20Dashboard.png)
+[Dashboard Preview](https://github.com/akankshapillaii/Emergency-Room-Dashboard/blob/main/ER%20Final%20Dashboard.png)
 
 # Business Problem
 Hospital emergency departments experience fluctuating patient volumes, making it challenging to monitor patient flow, waiting times, admissions, referrals, and overall operational performance. A centralized dashboard was needed to bring these metrics together and provide clear insights for informed decision-making.
