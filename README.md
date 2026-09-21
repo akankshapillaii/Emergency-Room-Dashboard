@@ -27,13 +27,12 @@ The main objectives of this project were to:
 8. Build an interactive reporting solution for decision-making.
 
 # Tools & Technologies
-
-| Tool | Purpose |
-|------|---------|
-| **Power BI** | Dashboard development and data visualization |
-| **Power Query** | Data cleaning and transformation |
-| **DAX** | KPI calculations and analytical measures |
-| **Excel / CSV** | Source data and data preparation |
+- **Power BI** — Interactive dashboard development, KPI cards, filters, and data visualization
+- **Power Query** — Data cleaning, transformation, validation, and preparation
+- **DAX** — KPI and calculated measure development for patient volume, wait time, satisfaction, referrals, and admissions
+- **Data Modeling** — Structured relationships for patient, demographic, referral, and time-based analysis
+- **Data Visualization** — Interactive charts, tables, and KPI visuals for clear performance reporting
+- **Data Analytics** — Exploratory analysis, trend identification, KPI development, and insight generation
 
 # 💡 Key Takeaways
 | Area | Key Finding |
