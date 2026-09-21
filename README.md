@@ -34,6 +34,14 @@ The main objectives of this project were to:
 - **Data Visualization** — Interactive charts, tables, and KPI visuals for clear performance reporting
 - **Data Analytics** — Exploratory analysis, trend identification, KPI development, and insight generation
 
+# 🔄 Project Workflow
+**Requirements → Data Cleaning → Data Transformation → Data Modeling → DAX → Dashboard Development → Insights**
+- Cleaned and transformed raw healthcare data using **Power Query**
+- Built relationships and prepared the **data model** for analysis
+- Created **DAX measures** for key operational KPIs
+- Designed an **interactive dashboard** with filters and multiple report views
+- Analyzed patient trends across **time, demographics, admissions, and referrals**
+- 
 # 💡 Key Takeaways
 | Area | Key Finding |
 |---|---|
