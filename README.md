@@ -73,9 +73,9 @@ Monthly View | Consolidated View | Patient Details | Key Takeaways
 | **Age Group** | **30–39 years (1,200)** was the largest patient age group |
 | **Admissions** | **4,612 admitted** vs. **4,604 treated & released** |
 
-## 🔍 Deep Dive Analysis & Findings
+# 🔍 Deep Dive Analysis & Findings
 
-# Understanding the Emergency Room Through Data
+### Understanding the Emergency Room Through Data
 Across **9,216 patient visits over 19 months**, the analysis reveals that emergency-room activity is not evenly distributed. Looking beyond overall patient volume helps identify **when demand increases, where it is concentrated, and how patients move through the system**.
 
 # Demand Has Distinct Peaks
