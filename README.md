@@ -15,6 +15,13 @@ Develop an interactive reporting solution to help hospital administrators:
 - Understand patient demographics
 - Monitor patient satisfaction
 
+# Key Stakeholders
+- **Hospital Management** — Monitor overall emergency-room performance and support operational decision-making
+- **Emergency Department Managers** — Track patient flow, waiting times, admissions, and peak periods
+- **Doctors & Department Heads** — Understand referral patterns and departmental demand
+- **Operations & Nursing Teams** — Support staffing and resource allocation based on patient-volume trends
+- **Data / BI Teams** — Maintain analytical reporting, KPIs, and performance monitoring
+
 # Project Objectives
 The main objectives of this project were to:
 - Analyze emergency-room patient volume and flow.
