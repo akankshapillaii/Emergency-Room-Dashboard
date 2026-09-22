@@ -91,7 +91,9 @@ Patient activity was highest on **Monday (1,377 visits), Saturday (1,322), and T
 ## Waiting Time Adds Another Layer
 The average waiting time was **35.3 minutes**, alongside an average patient satisfaction score of **4.99/10**.
 
-**Finding:** These metrics provide an opportunity to investigate whether patient experience varies across waiting-time categories and periods of higher demand.
+<p style="color:#6FA8DC;">
+<strong>Finding:</strong> These metrics provide an opportunity to investigate whether patient experience varies across waiting-time categories and periods of higher demand.
+</p>
 
 ## Patient Outcomes Are Almost Evenly Split
 The analysis recorded **4,612 admissions** compared with **4,604 treated-and-released patients**.
