@@ -53,12 +53,12 @@ The main objectives of this project were to:
 Monthly View | Consolidated View | Patient Details | Key Takeaways
 <table>
   <tr>
-    <td><img src="Dashboard Preview/ER Final Dashboard.png" width="400"></td>
-    <td><img src="Dashboard Preview/Consolidated view.png" width="400"></td>
+    <td><img src="Dashboard_Pages_Preview/ER Final Dashboard.png" width="400"></td>
+    <td><img src="Dashboard_Pages_Preview/Consolidated view.png" width="400"></td>
   </tr>
   <tr>
-    <td><img src="Dashboard Preview/Patient Details.png" width="400"></td>
-    <td><img src="Dashboard Preview/Key takeaways.png" width="400"></td>
+    <td><img src="Dashboard_Pages_Preview/Patient Details.png" width="400"></td>
+    <td><img src="Dashboard_Pages_Preview/Key takeaways.png" width="400"></td>
   </tr>
 </table>
   
