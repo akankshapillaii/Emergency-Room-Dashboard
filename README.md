@@ -86,7 +86,7 @@ Patient activity was highest on **Monday (1,377 visits), Saturday (1,322), and T
 ## Referrals Reveal Demand Concentration
 **5,400 patients required no department referral**, while **General Practice (1,840)** and **Orthopedics (995)** recorded the highest referral volumes among referred patients.
 
-<font color="Blue"> **Finding:** Referral demand is concentrated in specific departments, highlighting areas where further capacity and patient-flow analysis may be valuable. </font>
+![#1589f0](**Finding:** Referral demand is concentrated in specific departments, highlighting areas where further capacity and patient-flow analysis may be valuable.)'#1589f0' 
 
 ## Waiting Time Adds Another Layer
 The average waiting time was **35.3 minutes**, alongside an average patient satisfaction score of **4.99/10**.
