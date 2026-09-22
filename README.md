@@ -81,7 +81,7 @@ Across **9,216 patient visits over 19 months**, the analysis reveals that emerge
 ## Demand Has Distinct Peaks
 Patient activity was highest on **Monday (1,377 visits), Saturday (1,322), and Tuesday (1,318)**. At the hourly level, **11 AM, 1 PM, 7 PM, and 11 PM** emerged as notable high-volume periods.
 
-> **Finding:** Patient demand follows identifiable time patterns that can help inform staffing and resource planning.
+**Finding:** Patient demand follows identifiable time patterns that can help inform staffing and resource planning.
 
 ## Referrals Reveal Demand Concentration
 **5,400 patients required no department referral**, while **General Practice (1,840)** and **Orthopedics (995)** recorded the highest referral volumes among referred patients.
