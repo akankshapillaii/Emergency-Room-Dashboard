@@ -22,8 +22,8 @@ Develop an interactive reporting solution to help hospital administrators:
 - **Operations & Nursing Teams** — Support staffing and resource allocation based on patient-volume trends
 - **Data / BI Teams** — Maintain analytical reporting, KPIs, and performance monitoring
 
-## Project Objectives
-The main objectives of this project were to:
+## Dashboard Objectives
+The main objectives of building this dashboard were to:
 - Analyze emergency-room patient volume and flow.
 - Monitor key operational KPIs.
 - Analyze patient waiting times.
@@ -33,7 +33,7 @@ The main objectives of this project were to:
 - Identify peak periods of emergency-room activity.
 - Build an interactive reporting solution for decision-making.
 
-## Project Workflow
+## Workflow
 **Requirements → Data Cleaning → Data Transformation → Data Modeling → DAX → Dashboard Development → Insights**
 - Cleaned and transformed raw healthcare data using **Power Query**
 - Built relationships and prepared the **data model** for analysis
