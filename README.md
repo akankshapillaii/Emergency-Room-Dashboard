@@ -35,15 +35,15 @@ Emergency departments handle continuously changing patient volumes, making it di
 
 The analysis focuses on answering the following business questions:
 
-How many patients are visiting the Emergency Room over time?
-What is the average patient wait time?
-How effectively are patients being seen within 30 minutes?
-When are the busiest days and hours?
-Which departments receive the highest number of referrals?
-What is the admission versus non-admission pattern?
-How does patient satisfaction vary with operational activity?
-What demographic groups represent the largest share of ER visits?
-Where should hospital management investigate opportunities to improve patient flow and resource allocation?
+- How many patients are visiting the Emergency Room over time?
+- What is the average patient wait time?
+- How effectively are patients being seen within 30 minutes?
+- When are the busiest days and hours?
+- Which departments receive the highest number of referrals?
+- What is the admission versus non-admission pattern?
+- How does patient satisfaction vary with operational activity?
+- What demographic groups represent the largest share of ER visits?
+- Where should hospital management investigate opportunities to improve patient flow and resource allocation?
 
 The goal was to transform these questions into a decision-ready Power BI dashboard rather than simply presenting descriptive charts.
 
@@ -74,8 +74,8 @@ The report uses two primary analytical components:
 - Hospital ER_Data
 - Date Table
 
-<p align="center">
-     <img src="Dashboard_Pages_Preview/Data Model.png" width="70%">   
+<p>
+     <img src="Dashboard_Pages_Preview/Data Model.png" width="68%">   
 </p>
 
 The model enables the report to move between daily, monthly, demographic, operational, and patient-level analysis.
