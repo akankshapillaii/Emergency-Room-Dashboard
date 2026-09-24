@@ -19,17 +19,17 @@ The analysis highlights three major operational areas:
 The dashboard converts these patterns into an operational view that can support resource planning, patient-flow monitoring, and performance improvement.
 
 ## Table of Contents
-- [Executive Summary]()
-- [Business Problem]()
-- [Dashboard]()
-- [Key Stakeholders]()
-- [Workflow]()
-- [Data Structure]()
-- [Dashboard Pages]()
-- [Key Takeaways]()
-- [Deep Dive Analysis & Findings]()
-- [Recommendations]()
-- [Final Business Takeaway]()
+- [Executive Summary](https://github.com/akankshapillaii/Emergency-Room-Dashboard/blob/main/README.md#executive-summary)
+- [Business Problem](https://github.com/akankshapillaii/Emergency-Room-Dashboard/blob/main/README.md#business-problem)
+- [Dashboard](https://github.com/akankshapillaii/Emergency-Room-Dashboard/blob/main/README.md#dashboard)
+- [Key Stakeholders](https://github.com/akankshapillaii/Emergency-Room-Dashboard/blob/main/README.md#key-stakeholders)
+- [Workflow](https://github.com/akankshapillaii/Emergency-Room-Dashboard/blob/main/README.md#workflow)
+- [Data Structure](https://github.com/akankshapillaii/Emergency-Room-Dashboard/blob/main/README.md#data-structure)
+- [Dashboard Pages](https://github.com/akankshapillaii/Emergency-Room-Dashboard/blob/main/README.md#dashboard-pages)
+- [Key Takeaways](https://github.com/akankshapillaii/Emergency-Room-Dashboard/blob/main/README.md#key-takeaways)
+- [Deep Dive Analysis & Findings](https://github.com/akankshapillaii/Emergency-Room-Dashboard/blob/main/README.md#deep-dive-analysis--findings)
+- [Recommendations](https://github.com/akankshapillaii/Emergency-Room-Dashboard/blob/main/README.md#recommendations)
+- [Final Business Takeaway](https://github.com/akankshapillaii/Emergency-Room-Dashboard/blob/main/README.md#final-business-takeaway)
 
 ## Business Problem
 Emergency departments handle continuously changing patient volumes, making it difficult to monitor operational performance using raw patient-level data alone.
