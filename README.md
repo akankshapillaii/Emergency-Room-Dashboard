@@ -64,31 +64,21 @@ The Power BI report contains four analytical pages:
 - **Doctors & Department Heads** — Understand referral patterns and departmental demand
 - **Operations & Nursing Teams** — Support staffing and resource allocation based on patient-volume trends
 - **Data / BI Teams** — Maintain analytical reporting, KPIs, and performance monitoring
-- 
+  
 ## Workflow
 
-Business Understanding
-        ↓
-Data Walkthrough
-        ↓
-Data Cleaning & Quality Checks
-        ↓
-Data Modeling
-        ↓
-DAX Measures & KPI Development
-        ↓
-Dashboard Design
-        ↓
-Interactive Visualization
-        ↓
-Trend & Performance Analysis
-        ↓
-Business Insights
-        ↓
-Recommendations
+Business Understanding → Data Walkthrough → Data Cleaning & Quality Checks → Data Modeling → DAX Measures & KPI Development → Dashboard Design → Interactive Visualization → Trend & Performance Analysis → Business Insights → Recommendations
 
 ## Data Structure
+The report uses two primary analytical components:
+- Hospital ER_Data
+- Date Table
 
+<p>
+        <img src="Dashboard_Pages_Preview/Data Model.png" width="70%">   
+</p>
+
+The model enables the report to move between daily, monthly, demographic, operational, and patient-level analysis.
 
 ## Tools & Technologies
 - **Power BI** — Interactive dashboard development, KPI cards, filters, and data visualization
@@ -102,12 +92,12 @@ Recommendations
 Monthly View | Consolidated View | Patient Details | Key Takeaways
 <table>
   <tr>
-    <td><img src="Dashboard_Pages_Preview/ER Final Dashboard.png" width="400"></td>
-    <td><img src="Dashboard_Pages_Preview/Consolidated view.png" width="400"></td>
+    <td><img src="Dashboard_Pages_Preview/ER Final Dashboard.png" width="70%"></td>
+    <td><img src="Dashboard_Pages_Preview/Consolidated view.png" width="70%"></td>
   </tr>
   <tr>
-    <td><img src="Dashboard_Pages_Preview/Patient Details.png" width="400"></td>
-    <td><img src="Dashboard_Pages_Preview/Key takeaways.png" width="400"></td>
+    <td><img src="Dashboard_Pages_Preview/Patient Details.png" width="70%"></td>
+    <td><img src="Dashboard_Pages_Preview/Key takeaways.png" width="70%"></td>
   </tr>
 </table>
   
