@@ -1,4 +1,5 @@
 # Emergency-Room-Dashboard
+
 An interactive Power BI healthcare analytics dashboard designed to analyze Emergency Room operations across 19 months (April 2023 – October 2024). The report transforms patient-level data into actionable insights around patient volume, wait times, satisfaction, referrals, admissions, demographics, and peak operating periods.
 
 The objective is to help hospital stakeholders understand where operational pressure occurs, identify potential bottlenecks, and make more informed decisions around staffing, patient flow, referrals, and service quality.
@@ -18,17 +19,17 @@ The analysis highlights three major operational areas:
 The dashboard converts these patterns into an operational view that can support resource planning, patient-flow monitoring, and performance improvement.
 
 ## Table of Contents
-- Business Problem
-- Dashboard
-- Key Stakeholders
-- Project Workflow
-- Data Structure
-- Dashboard Pages
-- Key KPIs
-- Key Findings
-- Business Recommendations
-- Tools & Technologies
-- Conclusion
+- [Executive Summary]()
+- [Business Problem]()
+- [Dashboard]()
+- [Key Stakeholders]()
+- [Workflow]()
+- [Data Structure]()
+- [Dashboard Pages]()
+- [Key Takeaways]()
+- [Deep Dive Analysis & Findings]()
+- [Recommendations]()
+- [Final Business Takeaway]()
 
 ## Business Problem
 Emergency departments handle continuously changing patient volumes, making it difficult to monitor operational performance using raw patient-level data alone.
@@ -80,14 +81,6 @@ The report uses two primary analytical components:
 
 The model enables the report to move between daily, monthly, demographic, operational, and patient-level analysis.
 
-## Tools & Technologies
-- **Power BI** — Interactive dashboard development, KPI cards, filters, and data visualization
-- **Power Query** — Data cleaning, transformation, validation, and preparation
-- **DAX** — KPI and calculated measure development for patient volume, wait time, satisfaction, referrals, and admissions
-- **Data Modeling** — Structured relationships for patient, demographic, referral, and time-based analysis
-- **Data Visualization** — Interactive charts, tables, and KPI visuals for clear performance reporting
-- **Data Analytics** — Exploratory analysis, trend identification, KPI development, and insight generation
-
 ## Dashboard Pages
 Monthly View | Consolidated View | Patient Details | Key Takeaways
 <table>
@@ -101,7 +94,7 @@ Monthly View | Consolidated View | Patient Details | Key Takeaways
   </tr>
 </table>
   
-## 💡 Key Takeaways
+## Key Takeaways
 | Area | Key Finding |
 |---|---|
 | **Patient Volume** | **9,216 patients** analyzed across 19 months |
@@ -112,7 +105,7 @@ Monthly View | Consolidated View | Patient Details | Key Takeaways
 | **Age Group** | **30–39 years (1,200)** was the largest patient age group |
 | **Admissions** | **4,612 admitted** vs. **4,604 treated & released** |
 
-## 🔍 Deep Dive Analysis & Findings
+## Deep Dive Analysis & Findings
 
 ### Understanding the Emergency Room Through Data
 Across **9,216 patient visits over 19 months**, the analysis reveals that emergency-room activity is not evenly distributed. Looking beyond overall patient volume helps identify **when demand increases, where it is concentrated, and how patients move through the system**.
@@ -137,7 +130,29 @@ The analysis recorded **4,612 admissions** compared with **4,604 treated-and-rel
 
 > **Finding:** Patient volume alone does not fully capture ER workload; patient outcomes provide an additional perspective for understanding operational demand.
 
-### Overall Finding
-The analysis moves beyond **“How many patients visited?”** to understand **when demand peaks, where referrals are concentrated, how long patients wait, and what happens after their visit**.
+## Recommendations
 
-By bringing these dimensions together, the dashboard provides a data-driven view of emergency-room operations and highlights areas where **patient flow, staffing, and resource planning can be explored further**.
+1. **Optimize Staffing During Peak Hours**  
+   Align staffing with high-volume periods, particularly **Monday, Saturday, Tuesday** and peak hours such as **11 AM, 1 PM, 7 PM, and 11 PM** to better manage patient flow.
+
+2. **Reduce Patient Waiting Time**  
+   Investigate the operational factors behind the **35.3-minute average wait time**, focusing on periods where high patient volume coincides with longer waits.
+
+3. **Improve 30-Minute Service Performance**  
+   With only **59.32% of patients seen within 30 minutes**, identify low-performing periods and improve triage, registration, and frontline capacity.
+
+4. **Plan Capacity Around Referral Demand**  
+   Prioritize capacity planning for **General Practice (1,840 referrals)** and **Orthopedics (995 referrals)**, which account for the highest referral volumes.
+
+5. **Monitor Patient Experience Alongside Operations**  
+   Analyze the **4.99/10 average satisfaction score** alongside wait time, patient volume, and admission status to identify opportunities to improve the overall ER experience.
+   
+## Final Business Takeaway
+
+The analysis shows that Emergency Room performance is influenced by when patients arrive, how long they wait, where they are referred, and whether they are ultimately admitted.
+
+The most important operational opportunities are centered around:
+
+Demand-based staffing → Wait-time reduction → 30-minute service performance → Referral capacity → Patient experience
+
+The dashboard provides a single analytical layer through which these factors can be monitored together, allowing hospital stakeholders to move from "What happened?" to "Where should we investigate further?"
