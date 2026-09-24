@@ -21,9 +21,9 @@ The dashboard converts these patterns into an operational view that can support 
 ## Table of Contents
 - [Executive Summary](https://github.com/akankshapillaii/Emergency-Room-Dashboard/blob/main/README.md#executive-summary)
 - [Business Problem](https://github.com/akankshapillaii/Emergency-Room-Dashboard/blob/main/README.md#business-problem)
-- [Dashboard](https://github.com/akankshapillaii/Emergency-Room-Dashboard/blob/main/README.md#dashboard)
 - [Key Stakeholders](https://github.com/akankshapillaii/Emergency-Room-Dashboard/blob/main/README.md#key-stakeholders)
 - [Workflow](https://github.com/akankshapillaii/Emergency-Room-Dashboard/blob/main/README.md#workflow)
+- [Dashboard](https://github.com/akankshapillaii/Emergency-Room-Dashboard/blob/main/README.md#dashboard)
 - [Data Structure](https://github.com/akankshapillaii/Emergency-Room-Dashboard/blob/main/README.md#data-structure)
 - [Dashboard Pages](https://github.com/akankshapillaii/Emergency-Room-Dashboard/blob/main/README.md#dashboard-pages)
 - [Key Takeaways](https://github.com/akankshapillaii/Emergency-Room-Dashboard/blob/main/README.md#key-takeaways)
@@ -48,17 +48,6 @@ The analysis focuses on answering the following business questions:
 
 The goal was to transform these questions into a decision-ready Power BI dashboard rather than simply presenting descriptive charts.
 
-## Dashboard
-Power Bi Report: [View Dashboard](https://github.com/akankshapillaii/Emergency-Room-Dashboard/blob/main/Hospital%20Emergency%20Room%20Dashboard.pbix)
-
-The Power BI report contains four analytical pages:
-| Dashboard Page	| Business Question|
-|-----|------|
-| Monthly View	| How is ER performance changing month by month? |
-| Consolidated View	| What are the overall operational patterns across the complete period? |
-| Patient Details	| What does the underlying patient-level data look like? |
-| Key Takeaways	| What are the most important findings from the analysis? |
-
 ## Key Stakeholders
 - **Hospital Management** — Monitor overall emergency-room performance and support operational decision-making
 - **Emergency Department Managers** — Track patient flow, waiting times, admissions, and peak periods
@@ -69,6 +58,17 @@ The Power BI report contains four analytical pages:
 ## Workflow
 
 Business Understanding → Data Walkthrough → Data Cleaning & Quality Checks → Data Modeling → DAX Measures & KPI Development → Dashboard Design → Interactive Visualization → Trend & Performance Analysis → Business Insights → Recommendations
+
+## Dashboard
+Power Bi Report: [View Dashboard](https://github.com/akankshapillaii/Emergency-Room-Dashboard/blob/main/Hospital%20Emergency%20Room%20Dashboard.pbix)
+
+The Power BI report contains four analytical pages:
+| Dashboard Page	| Business Question|
+|-----|------|
+| Monthly View	| How is ER performance changing month by month? |
+| Consolidated View	| What are the overall operational patterns across the complete period? |
+| Patient Details	| What does the underlying patient-level data look like? |
+| Key Takeaways	| What are the most important findings from the analysis? |
 
 ## Data Structure
 The report uses two primary analytical components:
