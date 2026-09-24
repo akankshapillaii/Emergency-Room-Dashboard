@@ -1,4 +1,4 @@
-<img width="695" height="441" alt="image" src="https://github.com/user-attachments/assets/2958e697-9de8-4634-a18c-45ec022d5b30" /># Emergency-Room-Dashboard
+# Emergency-Room-Dashboard
 An interactive Power BI healthcare analytics dashboard designed to analyze Emergency Room operations across 19 months (April 2023 – October 2024). The report transforms patient-level data into actionable insights around patient volume, wait times, satisfaction, referrals, admissions, demographics, and peak operating periods.
 
 The objective is to help hospital stakeholders understand where operational pressure occurs, identify potential bottlenecks, and make more informed decisions around staffing, patient flow, referrals, and service quality.
@@ -29,8 +29,6 @@ The dashboard converts these patterns into an operational view that can support 
 - Business Recommendations
 - Tools & Technologies
 - Conclusion
-
-[View Dashboard](https://github.com/akankshapillaii/Emergency-Room-Dashboard/blob/main/Hospital%20Emergency%20Room%20Dashboard.pbix)
 
 ## Business Problem
 Emergency departments handle continuously changing patient volumes, making it difficult to monitor operational performance using raw patient-level data alone.
