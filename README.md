@@ -74,8 +74,8 @@ The report uses two primary analytical components:
 - Hospital ER_Data
 - Date Table
 
-<p>
-        <img src="Dashboard_Pages_Preview/Data Model.png" width="70%">   
+<p align="center">
+     <img src="Dashboard_Pages_Preview/Data Model.png" width="70%">   
 </p>
 
 The model enables the report to move between daily, monthly, demographic, operational, and patient-level analysis.
@@ -92,12 +92,12 @@ The model enables the report to move between daily, monthly, demographic, operat
 Monthly View | Consolidated View | Patient Details | Key Takeaways
 <table>
   <tr>
-    <td><img src="Dashboard_Pages_Preview/ER Final Dashboard.png" width="70%"></td>
-    <td><img src="Dashboard_Pages_Preview/Consolidated view.png" width="70%"></td>
+    <td><img src="Dashboard_Pages_Preview/ER Final Dashboard.png" width="400"></td>
+    <td><img src="Dashboard_Pages_Preview/Consolidated view.png" width="400"></td>
   </tr>
   <tr>
-    <td><img src="Dashboard_Pages_Preview/Patient Details.png" width="70%"></td>
-    <td><img src="Dashboard_Pages_Preview/Key takeaways.png" width="70%"></td>
+    <td><img src="Dashboard_Pages_Preview/Patient Details.png" width="400"></td>
+    <td><img src="Dashboard_Pages_Preview/Key takeaways.png" width="400"></td>
   </tr>
 </table>
   
