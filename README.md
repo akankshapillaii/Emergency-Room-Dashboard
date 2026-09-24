@@ -1,19 +1,64 @@
-# Emergency-Room-Dashboard
-An interactive Power BI dashboard developed to analyze hospital emergency-room performance, patient flow, waiting times, admissions, referrals, demographics, and patient satisfaction.
+<img width="695" height="441" alt="image" src="https://github.com/user-attachments/assets/2958e697-9de8-4634-a18c-45ec022d5b30" /># Emergency-Room-Dashboard
+An interactive Power BI healthcare analytics dashboard designed to analyze Emergency Room operations across 19 months (April 2023 – October 2024). The report transforms patient-level data into actionable insights around patient volume, wait times, satisfaction, referrals, admissions, demographics, and peak operating periods.
+
+The objective is to help hospital stakeholders understand where operational pressure occurs, identify potential bottlenecks, and make more informed decisions around staffing, patient flow, referrals, and service quality.
+
+## Executive Summary
+
+The Emergency Room dashboard analyzes 9,216 patient records across a 19-month period.
+
+The analysis highlights three major operational areas:
+
+- Patient flow: Average patient wait time was 35.3 minutes, while the report tracks the proportion of patients seen within 30 minutes.
+- Patient experience: Average patient satisfaction was 4.99/10, providing a metric for monitoring the relationship between operational performance and patient experience.
+- Demand patterns: Patient volumes vary significantly by day and hour, with Monday, Saturday, and Tuesday among the busiest days and 11 AM, 1 PM, 7 PM, and 11 PM identified as high-volume hours.
+- Referral demand: General Practice and Orthopedics account for the largest number of departmental referrals.
+- Admission pattern: 4,612 patients were admitted, while 4,604 were not admitted, creating an almost even split between the two outcomes.
+
+The dashboard converts these patterns into an operational view that can support resource planning, patient-flow monitoring, and performance improvement.
+
+## Table of Contents
+- Business Problem
+- Dashboard
+- Key Stakeholders
+- Project Workflow
+- Data Structure
+- Dashboard Pages
+- Key KPIs
+- Key Findings
+- Business Recommendations
+- Tools & Technologies
+- Conclusion
 
 [View Dashboard](https://github.com/akankshapillaii/Emergency-Room-Dashboard/blob/main/Hospital%20Emergency%20Room%20Dashboard.pbix)
 
 ## Business Problem
-Hospital emergency departments experience fluctuating patient volumes, making it challenging to monitor patient flow, waiting times, admissions, referrals, and overall operational performance. A centralized dashboard was needed to bring these metrics together and provide clear insights for informed decision-making.
+Emergency departments handle continuously changing patient volumes, making it difficult to monitor operational performance using raw patient-level data alone.
 
-## Business Objective
-Develop an interactive reporting solution to help hospital administrators:
-- Monitor patient volume and emergency-room activity
-- Track average waiting time and service timeliness
-- Analyze admission and referral patterns
-- Identify peak patient periods
-- Understand patient demographics
-- Monitor patient satisfaction
+The analysis focuses on answering the following business questions:
+
+How many patients are visiting the Emergency Room over time?
+What is the average patient wait time?
+How effectively are patients being seen within 30 minutes?
+When are the busiest days and hours?
+Which departments receive the highest number of referrals?
+What is the admission versus non-admission pattern?
+How does patient satisfaction vary with operational activity?
+What demographic groups represent the largest share of ER visits?
+Where should hospital management investigate opportunities to improve patient flow and resource allocation?
+
+The goal was to transform these questions into a decision-ready Power BI dashboard rather than simply presenting descriptive charts.
+
+## Dashboard
+Power Bi Report: [View Dashboard](https://github.com/akankshapillaii/Emergency-Room-Dashboard/blob/main/Hospital%20Emergency%20Room%20Dashboard.pbix)
+
+The Power BI report contains four analytical pages:
+| Dashboard Page	| Business Question|
+|-----|------|
+| Monthly View	| How is ER performance changing month by month? |
+| Consolidated View	| What are the overall operational patterns across the complete period? |
+| Patient Details	| What does the underlying patient-level data look like? |
+| Key Takeaways	| What are the most important findings from the analysis? |
 
 ## Key Stakeholders
 - **Hospital Management** — Monitor overall emergency-room performance and support operational decision-making
@@ -21,25 +66,31 @@ Develop an interactive reporting solution to help hospital administrators:
 - **Doctors & Department Heads** — Understand referral patterns and departmental demand
 - **Operations & Nursing Teams** — Support staffing and resource allocation based on patient-volume trends
 - **Data / BI Teams** — Maintain analytical reporting, KPIs, and performance monitoring
-
-## Dashboard Objectives
-The main objectives of building this dashboard were to:
-- Analyze emergency-room patient volume and flow.
-- Monitor key operational KPIs.
-- Analyze patient waiting times.
-- Understand admission patterns.
-- Identify demographic trends.
-- Analyze department referral patterns.
-- Identify peak periods of emergency-room activity.
-- Build an interactive reporting solution for decision-making.
-
+- 
 ## Workflow
-**Requirements → Data Cleaning → Data Transformation → Data Modeling → DAX → Dashboard Development → Insights**
-- Cleaned and transformed raw healthcare data using **Power Query**
-- Built relationships and prepared the **data model** for analysis
-- Created **DAX measures** for key operational KPIs
-- Designed an **interactive dashboard** with filters and multiple report views
-- Analyzed patient trends across **time, demographics, admissions, and referrals**
+
+Business Understanding
+        ↓
+Data Walkthrough
+        ↓
+Data Cleaning & Quality Checks
+        ↓
+Data Modeling
+        ↓
+DAX Measures & KPI Development
+        ↓
+Dashboard Design
+        ↓
+Interactive Visualization
+        ↓
+Trend & Performance Analysis
+        ↓
+Business Insights
+        ↓
+Recommendations
+
+## Data Structure
+
 
 ## Tools & Technologies
 - **Power BI** — Interactive dashboard development, KPI cards, filters, and data visualization
